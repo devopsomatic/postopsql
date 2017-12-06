@@ -1,2 +1,2 @@
 # postopsql
-PostgreSQL + DevOps
+PostgreSQL + Infrastructure as Code = PostOpSQL
